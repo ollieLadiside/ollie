@@ -24,7 +24,7 @@ public class vipTime
       upgradeDeadlineAtTemp += resetDayTime;
       upgradeDeadlineStartAtTemp += resetDayTime;
     }
-    //改
+    //改12
     upgradeDeadlineAt = upgradeDeadlineAtTemp;
     upgradeDeadlineStartAt = upgradeDeadlineStartAtTemp;
   }
